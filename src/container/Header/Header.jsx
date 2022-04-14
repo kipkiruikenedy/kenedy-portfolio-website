@@ -36,7 +36,7 @@ const Header = () => (
           <p className="p-text">A Freelance</p>
           <p className="p-text">Web Developer</p>
         </div>
-        <button className="btn-resume" type="button">Download my Resume</button>
+        
       </div>
     </motion.div>
 
@@ -66,6 +66,7 @@ const Header = () => (
         </div>
       ))}
     </motion.div>
+    <button className="btn-resume" type="button">Download my Resume</button>
   </div>
 );
 
