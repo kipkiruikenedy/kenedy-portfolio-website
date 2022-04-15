@@ -9,6 +9,7 @@ import Testimonial from './container/Testimonial/Testimonial';
 import Footer from './container/Footer/Footer';
 
 
+
 const App = () => (
   <div className="app">
     <Navbar />
@@ -18,6 +19,7 @@ const App = () => (
     <Skills />
     <Testimonial />
     <Footer />
+  
   </div>
 );
 
