@@ -31,12 +31,6 @@ const Header = () => (
             <h1 className="head-text">Kenedy Kipkirui</h1>
           </div>
         </div>
-
-        <div className="tag-cmp app__flex">
-          <p className="p-text">A Freelance</p>
-          <p className="p-text">Web Developer</p>
-        </div>
-        
       </div>
     </motion.div>
 

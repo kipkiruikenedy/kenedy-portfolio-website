@@ -7,6 +7,7 @@ import Work from './container/Work/Work';
 import Skills from './container/Skills/Skills';
 import Testimonial from './container/Testimonial/Testimonial';
 import Footer from './container/Footer/Footer';
+import { Education } from './container';
 
 
 
@@ -16,6 +17,7 @@ const App = () => (
     <Header />
     <About />
     <Work />
+    <Education />
     <Skills />
     <Testimonial />
     <Footer />

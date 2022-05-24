@@ -7,7 +7,7 @@
 
   padding: 1rem 2rem;
   
-  // box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
   border: 1px solid rgba(255, 255, 255, 0.18);
@@ -55,12 +55,13 @@
     }
 
     a {
-      color: var(--gray-color);
+      color: brown;
       text-decoration: none;
       flex-direction: column;
+      
 
       text-transform: uppercase;
-      font-weight: 500;
+      font-weight: 800;
 
       transition: all 0.3s ease-in-out;
 

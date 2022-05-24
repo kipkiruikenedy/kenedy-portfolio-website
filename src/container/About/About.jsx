@@ -19,9 +19,7 @@ const About = () => {
   return (
     <>
       <h2 className="head-text">All <span>About</span> <span>Me</span></h2>
-      <h3>I am Oltitia Kenedy Kipkirui from Kenya!</h3>
-      <h4>I love programming, as well as running, taking photos and learning new things!</h4>
-      <h4>Feel free to get in touch or take a look at my past work below.</h4>
+     <d>hello</d>
 
       <div className="app__profiles">
         {abouts.map((about, index) => (
